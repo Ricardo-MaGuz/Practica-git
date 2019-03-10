@@ -1,3 +1,4 @@
 Name: Ricardo
 Age: 30
 Favorite color: blue
+Favorite food: Lasagna
